@@ -1,6 +1,6 @@
 ## Netflix clone
 
-Netflix clone using React and TMDB API. 🔥 🚀
+Netflix clone using React.js and TMDB API. 🔥 🚀
 
 Demo: https://netflix-clone-46908.web.app/
 
